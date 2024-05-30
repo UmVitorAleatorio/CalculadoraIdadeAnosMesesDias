@@ -27,7 +27,10 @@ namespace CalculadoraIdadeAMDs
 
         private void tBoxAnoNasc_TextChanged(object sender, EventArgs e)
         {
-            anoNasc = int.Parse(tBoxAnoNasc.Text);
+            if (tBoxAnoNasc.Text != null && tBoxAnoNasc.Text != "")
+            {
+                anoNasc = int.Parse(tBoxAnoNasc.Text);
+            }
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
