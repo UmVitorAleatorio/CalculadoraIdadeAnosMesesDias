@@ -64,6 +64,7 @@ namespace CalculadoraIdadeAMDs
             tBoxSuaIddDias.Text = "";
             tBoxName.Text = "";
             tBoxAnoAtual.Clear();
+            tBoxAnoNasc.Clear();
         }
     }
 }

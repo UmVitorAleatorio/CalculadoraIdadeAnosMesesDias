@@ -8,3 +8,13 @@ C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\ob
 C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.csproj.CoreCompileInputs.cache
 C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.exe
 C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.pdb
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\bin\Debug\CalculadoraIdadeAMDs.exe.config
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\bin\Debug\CalculadoraIdadeAMDs.exe
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\bin\Debug\CalculadoraIdadeAMDs.pdb
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.Form1.resources
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.Properties.Resources.resources
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.exe
+C:\Users\vitor\source\repos\Tarefa7\CalculadoraIdadeAnosMesesDia\CalculadoraIdadeAnosMesesDias\CalculadoraIdadeAMDs\CalculadoraIdadeAMDs\obj\Debug\CalculadoraIdadeAMDs.pdb
